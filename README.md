@@ -1,2 +1,2 @@
 # Devops_sample
-This is a sample devops repository
+Sample devops repository
